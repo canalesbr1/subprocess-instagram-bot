@@ -1,0 +1,1 @@
+{"artists": [{"artist": "Tom Wesselmann"},{"artist": "James Turrell"},{"artist": "Donald Judd"},{"artist": "Isaim Losano"},{"artist": "Bruce Nauman"}]}
